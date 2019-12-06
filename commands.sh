@@ -29,3 +29,5 @@ whereis nginx
 # /etc/nginx = configuration directory
 # /usr/share/man/man8/nginx.8.gz = contains man page
 # /usr/share/nginx/ = contains the /html/ directory where html files are displayed 
+# /var/www/html;
+
